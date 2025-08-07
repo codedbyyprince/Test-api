@@ -1,0 +1,70 @@
+# 🔥 Flask API – My First Step into Backend Development
+
+Welcome to my first Flask API project. This isn’t just a beginner's repo — it’s a record of curiosity, frustration, trial, and learning. I’m new to Python and backend development, but I’ve been exploring aggressively, experimenting with Machine Learning, Flask, and more.
+
+---
+
+## 📖 What This Project Is
+
+- A simple Flask API I built as a fresher in Python.
+- It handles basic API functionality using routes, GET/POST requests, and returns JSON responses.
+- You can run and test this API to understand basic backend architecture with Flask.
+
+---
+
+## 🧠 My Learning Journey
+
+This project isn't about showing off — it's about showing up.  
+When I started, I had zero idea what an API was. But here’s what kept me going: **curiosity, consistency, and chaos in my brain that wanted to build something.**
+
+### ❓ The Questions I Faced:
+- What even are *routes* in Flask?
+- Where does the data go in an API?
+- Can we do more than just GET and POST?
+- Why do we need APIs? Why not just write functions?
+- Why is there no module called `api` that makes APIs easy?
+- Is Flask only for JSON responses?
+- And most importantly — ***WTF is Flask?***
+
+These questions haunted me — but also drove me.
+
+---
+
+## 🛠️ How I Solved Them
+
+I didn’t rely on just tutorials. Instead, I:
+
+- Built small Flask apps from scratch
+- Ran and modified example projects
+- Served HTML pages using Flask to get used to route handling
+- Kept experimenting and asking questions on ChatGPT and forums
+
+Eventually, things clicked.
+
+---
+
+## 🎓 Useful Resources That Actually Helped Me
+
+If you're also a beginner, avoid the overwhelming noise. These 3 tutorials genuinely helped me:
+
+1. [Flask REST API Tutorial](https://youtu.be/z3YMz-Gocmw?si=dy3zmbTVc4WjorCc)
+2. [Simple Flask API with Postman](https://youtu.be/L9q3vjpwsh8?si=2f26ZGIBPI9whnaB)
+3. [Flask Beginner Guide](https://youtu.be/WA4OcJ-9PJo?si=tslZtP3-gNg_XTjb)
+
+Also, I *highly recommend* using ChatGPT (or another AI assistant) to ask real-time questions when you're stuck — it saved me hours.
+
+---
+
+## 🚀 How to Run This API
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/test-api.git
+   cd test-api
+
+2. python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+3. pip install -r requirements.txt
+
+4. python app.py
